@@ -129,19 +129,6 @@ cargo build --release
 cargo build --release --target x86_64-pc-windows-msvc
 ```
 
-## 许可证
-
-本项目采用 MIT 许可证开源。
-
-## 贡献者
-
-感谢所有为该项目做出贡献的人！
-
-## 联系方式
-
-- 项目地址：https://github.com/HEIMAO-YS/HM-HashChecker
-- 问题反馈：https://github.com/HEIMAO-YS/HM-HashChecker/issues
-
 ---
 
 Copyright (c) 2024 Yssssssss. All rights reserved.
